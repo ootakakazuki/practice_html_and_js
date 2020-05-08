@@ -1,0 +1,34 @@
+html, body {
+  background: #fffacd;
+  /*
+  text-align: center;
+  */
+  width: 100%;
+  height: 100%;
+}
+
+#hoge{
+	color: #abc123;
+}
+
+#hoge:hover{
+	color:red;
+}
+
+h1{    
+	text-align: center;
+	font-size: 40px
+}
+
+#_a1{
+  color: #AAAAAA;
+	
+}
+
+#inp{
+	size
+}
+
+#price{
+    text-decoration: underline;
+}
